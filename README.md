@@ -1,6 +1,7 @@
-# java
-public class demo {
-public static void main (string [] args){
-system.out.printin ("hello");
-}
+#include <stdio.h>
+
+int main() {
+    // Print a message to the console
+    printf("Hello");
+    return 0;
 }
